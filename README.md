@@ -1,2 +1,2 @@
-# Criando_OnePage
-Criando "one page" com HTML5 e CSS3; de consultório odontológico.  Para reforçar conceitos iniciais de páginas web.
+# Tutorial Criando Onepage HTML5 e CSS3
+Código exemplo do tutorial de como criar onepage com HTML5 e CSS3
