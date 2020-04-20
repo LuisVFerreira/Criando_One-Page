@@ -1,2 +1,3 @@
-# Tutorial Criando Onepage HTML5 e CSS3
-Código exemplo do tutorial de como criar onepage com HTML5 e CSS3
+# Criando_OnePage
+Criando "one page" com HTML5 e CSS3; tema: município de Itápolis. Para reforçar conceitos iniciais de páginas web.
+*Com foco nas funcionalidades e não em design.
