@@ -18,14 +18,20 @@ nav ul{
     margin-left:10px;
     padding:2px;
 }
+
+a{
+    text-decoration: none;
+    color:#333;
+
+}
 nav a{
     display:block;
     border:1px solid #e5e5e5;
     border-left:0;
     border-right:0;
-    margin:3px 0;
+    margin:5px 0;
     color:#333;
-    padding:5px 0;
+    padding:5px 3px;
     text-decoration: none;
 } 
 .box{
@@ -56,3 +62,16 @@ nav a{
 }
 .content:target{
     margin-left:0;
+
+}
+
+#home{
+    margin-left:0;
+}
+#sobre:target ~ header #link-sobre a,
+#religiao:target ~ header #link-religiao a,
+#esporte:target ~ header #link-esporte a,
+#DadosGerais:target ~ header #link-DadosGerais a{
+    background: #333;
+    color: #fff;
+}
