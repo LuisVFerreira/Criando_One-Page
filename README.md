@@ -1,4 +1,4 @@
 # Criando_One-Page
 Criando one page utilizando HTML5 e CSS3 com o tema "município de Itápolis-SP", a fim de reforçar conceitos iniciais de páginas web. *com foco na estrutura e não em design.
 
-![Itápolis](https://user-images.githubusercontent.com/51087767/83813808-81b95980-a694-11ea-8d5a-2ae2be9c04a5.jpg)
+![itapolis](https://user-images.githubusercontent.com/51087767/111393834-496d8f80-8698-11eb-8c23-43b58d8e118d.png)
